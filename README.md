@@ -5,3 +5,4 @@
 5. Nous aurons également aimer intégrer une page de partage ainsi qu'une page qui aurait servie d'à propos. Nous aurions également finalisé les différentes fonctionnalités et notament la page de texte qui est partiellement fonctionnelle.
 6. Une seule personne était en charge de ce projet.
 7. Il manque également le responsive design suite au manque de temps.
+8. Pour vérifier le fonctionnement de la partie édition, il faut prendre le 2ème design car le texte est en blanc et ne ressort pas sur les autres.
